@@ -44,6 +44,10 @@ GitHub에서 `index.html` 을 누르면 책 대신 코드가 보입니다. 책�
 
 엮은이에게 권리가 있는 부분은 [CC BY-NC 4.0](LICENSE)입니다. 브라질 법령·판결은 저작권법(Lei 9.610/1998) 제8조 IV에 따라 보호 대상이 아닙니다. 연방 상원 normas.leg.br 의 구조화 자료는 CC BY 4.0 입니다. 포르투갈 법령·판결은 관보·의회·법원이 공개한 문언을 옮겼습니다. 스페인 법령은 BOE 자료로, 출처 표시 조건을 따릅니다(Fuente de los datos: Agencia Estatal Boletín Oficial del Estado). 한국 법령은 저작권법 제7조에 따라 보호 대상이 아닙니다. 원전 쪽 그림은 책에 싣지 않았습니다. Wiktionary 의 발음 자료는 CC BY-SA 4.0 입니다. 합성음은 위 음성 모델의 조건을 따릅니다. 이 책은 위 기관들이 만들거나 승인한 것이 아닙니다.
 
+## 일러두기
+
+이 저장소의 자료는 엮은이가 개인적으로 공부하며 엮은 것입니다. 엮은이가 속한 기관의 견해나 업무와는 관계가 없습니다. 법률 자문이 아닙니다.
+
 ---
 
 <a id="english"></a>
@@ -84,3 +88,7 @@ Bowon Kwon (comp.), *Acordam: Portuguese of the codes and the courts, Brazil and
 ## License
 
 The parts in which the compiler holds rights are licensed under [CC BY-NC 4.0](LICENSE). Brazilian statutes and judgments are not protected by copyright under Article 8(IV) of Lei 9.610/1998. The structured data of the Federal Senate's normas.leg.br is licensed under CC BY 4.0. Portuguese statutes and judgments are reproduced from texts made public by the official gazette, the Assembly, and the courts. Spanish statutes are BOE data, subject to its attribution condition (Fuente de los datos: Agencia Estatal Boletín Oficial del Estado). Korean statutes are not protected by copyright under Article 7 of the Korean Copyright Act. Page images of the historical sources are not included in the book. Wiktionary pronunciation data is licensed under CC BY-SA 4.0. The audio follows the terms of the voice models named above. This book was not made or endorsed by any of the institutions named above.
+
+## Note
+
+These are personal study materials and do not represent the views or work of any institution the compiler belongs to. Not legal advice.
